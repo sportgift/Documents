@@ -1,4 +1,4 @@
 # Documents
 Documents of SportGift
 
-![smart contract](https://github.com/sportgift/Database/blob/master/smart-contract.pmg)
+![smart contract](https://github.com/sportgift/Documents/blob/master/smart-contract.png)
