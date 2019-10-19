@@ -1,9 +1,8 @@
 # Documents
 Documents of SportGift
+
+
  As you dive into the world of cryptocurrencies, it may feel like you have to learn an entirely new language to truly understand what’s going on. Just as with any specialized field, cryptocurrencies come with their own terminology and jargon. Here’s a handy reference guide to some of the most common terms you may come across.
-
-
-
 
 ACH - ACH payments are electronic payments made from one bank to another through the Automated Clearing House network. Many people already use ACH payments and may not know it, such as with direct deposit or paying bills online with checking accounts. ACH payments are a popular option for buying cryptocurrency for members on Uphold.
 
